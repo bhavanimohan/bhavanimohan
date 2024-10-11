@@ -3,6 +3,7 @@ public class adding {
         int a=23;
         int b=344;
         System.out.println(a+b);
+        System.out.println(a-b);
     }
     
 }
